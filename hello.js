@@ -3,4 +3,4 @@ function hello(name){
     return `hello ${name}`
 }
 
-console.log(hello('Drew'))
+console.log(hello('John'))
