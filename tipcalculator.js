@@ -9,4 +9,4 @@ function tipAmount (bill, rating='bad'){
         return bill * .1
     }
 }
-console.log(tipAmount(300))
+console.log(tipAmount(300, 'fair'))
